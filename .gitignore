@@ -1,0 +1,9 @@
+node_modules
+.env
+.next
+database/database.sqlite*
+
+.env.local
+.env.*.local
+*.log
+thunder-tests/
